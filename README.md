@@ -1,8 +1,6 @@
 
 # Sneakers Blog
 
-![Sneakers Blog Logo](logo.png)
-
 Welcome to the Sneakers Blog, where we share everything about sneakers, from the latest releases to sneaker culture and history. This blog is open-source, and we encourage contributions from sneaker enthusiasts like you! If you have a passion for sneakers and want to share your knowledge, feel free to contribute to this project.
 
 ## Table of Contents
